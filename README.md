@@ -12,7 +12,7 @@ And used decision tree in order to identify which factors very the most importan
 
 ### I took stocks data of four largest tech companies: Apple, Microsoft, Amazone, Google.
 I answered the following questions:
-) What was the change in price of the stock?
+1) What was the change in price of the stock?
 2) What was the moving average of the various stocks?
 3) What was the daily return of the stock on average?
 4) What was the correlation between different stocks' closing prices?
